@@ -47,6 +47,9 @@ body {
   }
   
   @media (min-width: 480px) {
+    body {
+      background-color: aqua;
+    }
   }
   
   @media (min-width: 640px) {
